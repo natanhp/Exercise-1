@@ -1,0 +1,31 @@
+body{
+    background-color:	#002269;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+.box{
+    margin-top: 20px;
+    padding: 20px;
+    background-color: rgba(4,72,219, 0.5);
+}
+
+.desc{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: left;
+}
+
+.desc-text{
+    margin: 5px;
+    color: white;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
